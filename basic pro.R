@@ -1,0 +1,22 @@
+print("Hello")
+#This is a printing name program
+print("Pranjali")
+a=2
+b=6
+d=a+b
+help("reserved")
+p=3L
+class(p)
+typeof(p)
+c="Hello"
+class(c)
+typeof(c)
+d='Hello'
+typeof(d)
+class(d)
+e='H'
+f="r"
+class(e)
+typeof(e)
+class(f)
+typeof(f)
